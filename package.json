@@ -1,0 +1,68 @@
+{
+  "name": "projectbuilding",
+  "version": "1.0.0",
+  "description": "project management",
+  "keywords": [
+    "udemy",
+    "shahil",
+    "verma",
+    "backened"
+  ],
+  "homepage": "https://github.com/shahilvermav02-source/projectmanagement-#readme",
+  "bugs": {
+    "url": "https://github.com/shahilvermav02-source/projectmanagement-/issues"
+  },
+  "repository": {
+    "type": "node_modules",
+    "url": "git+https://github.com/shahilvermav02-source/projectmanagement-.git"
+  },
+  "license": "ISC",
+  "author": "shahil verma",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "anymatch": "^3.1.3",
+    "balanced-match": "^4.0.4",
+    "bcrypt": "^6.0.0",
+    "binary-extensions": "^2.3.0",
+    "brace-expansion": "^5.0.6",
+    "braces": "^3.0.3",
+    "chokidar": "^3.6.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "debug": "^4.4.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "fill-range": "^7.1.1",
+    "glob-parent": "^5.1.2",
+    "has-flag": "^3.0.0",
+    "ignore-by-default": "^1.0.1",
+    "is-binary-path": "^2.1.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "mailgen": "^2.0.34",
+    "minimatch": "^10.2.5",
+    "mongoose": "^9.6.2",
+    "ms": "^2.1.3",
+    "nodemailer": "^8.0.7",
+    "nodemon": "^3.1.14",
+    "normalize-path": "^3.0.0",
+    "picomatch": "^2.3.2",
+    "prettier": "^3.8.3",
+    "pstree.remy": "^1.1.8",
+    "readdirp": "^3.6.0",
+    "semver": "^7.8.0",
+    "simple-update-notifier": "^2.0.0",
+    "supports-color": "^5.5.0",
+    "to-regex-range": "^5.0.1",
+    "touch": "^3.1.1",
+    "undefsafe": "^2.0.5"
+  }
+}
